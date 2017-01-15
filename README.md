@@ -1,5 +1,5 @@
 # My Movies DataBase
-By Mark Awai
+By Mark A.
 
 Learning SQL Exercise
 Creating and Modifying Databases with SQL
